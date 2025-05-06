@@ -2,5 +2,4 @@ Kubernetes: because your containers deserve orchestration, not orchestration anx
 Downtime teaches what uptime hides.
 Cache incoherency: the price we pay for speed we can’t live without.
 In tech, temporary workaround is the most permanent feature.
-Good logging is like time travel for bugs.
 
